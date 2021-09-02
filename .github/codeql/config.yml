@@ -1,0 +1,4 @@
+paths-ignore:
+  - "**/vendor/"
+  - "docroot/**/contrib/"
+  - docroot/core/
